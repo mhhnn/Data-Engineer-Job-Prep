@@ -1,2 +1,6 @@
 # Data-Engineer-Job-Prep
-All That You Need To Know 
+-Job Trends
+-SQL
+-DSA
+-System Design
+-Data Engineering
