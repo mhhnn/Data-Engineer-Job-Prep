@@ -48,5 +48,4 @@ _A comprehensive guide to help you prepare for Data Engineering roles._
 
 ---
 
-This structured and detailed roadmap will help you prepare for Data Engineering job interviews. Each section covers the key topics, subtopics, and case studies to provide you with a comprehensive understanding of data engineering concepts, problem-solving techniques, and system design principles.
 
